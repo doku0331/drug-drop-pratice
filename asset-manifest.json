@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/drug-drop-pratice/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/drug-drop-pratice/static/js/main.ade68053.chunk.js",
+    "main.js.map": "/drug-drop-pratice/static/js/main.ade68053.chunk.js.map",
+    "runtime-main.js": "/drug-drop-pratice/static/js/runtime-main.6e28fbf2.js",
+    "runtime-main.js.map": "/drug-drop-pratice/static/js/runtime-main.6e28fbf2.js.map",
+    "static/js/2.b4b3c230.chunk.js": "/drug-drop-pratice/static/js/2.b4b3c230.chunk.js",
+    "static/js/2.b4b3c230.chunk.js.map": "/drug-drop-pratice/static/js/2.b4b3c230.chunk.js.map",
+    "static/js/3.dbad6a22.chunk.js": "/drug-drop-pratice/static/js/3.dbad6a22.chunk.js",
+    "static/js/3.dbad6a22.chunk.js.map": "/drug-drop-pratice/static/js/3.dbad6a22.chunk.js.map",
+    "index.html": "/drug-drop-pratice/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/drug-drop-pratice/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.b4b3c230.chunk.js.LICENSE.txt": "/drug-drop-pratice/static/js/2.b4b3c230.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e28fbf2.js",
+    "static/js/2.b4b3c230.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.ade68053.chunk.js"
+  ]
+}
